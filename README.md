@@ -1,5 +1,9 @@
 # Data4School - Mozambican Schools Data Analysis
 
+<div align="center">
+    <img src="https://github.com/HercoZauZau/Data4School/blob/main/assets/img/logo.png?raw=true" alt="logo"/>
+</div>
+
 ## Overview
 
 The project aims to analyze school infrastructure in Mozambique, focusing on assessing current conditions, geographical distribution, resource allocation and more. The goal is to provide data-driven insights for improved education quality and equitable resource allocation.
