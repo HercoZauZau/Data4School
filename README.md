@@ -25,6 +25,10 @@ The project is organized as follows:
 - **notebooks**: Jupyter notebooks for data exploration, analysis, and visualization.
 - **data/results**: Reports, summaries, and visualizations.
 
+## Medium Article
+
+Read the project article to get a deeper look at the insights. [Click here](https://medium.com/@zauzau/school-infrastructure-in-mozambique-a-detailed-overview-ed6e9563e4a7).
+
 ## Contributing
 
 We welcome contributions to this project. If you have suggestions, reports, or would like to contribute code or additional analyses, feel free to open a pull request.
